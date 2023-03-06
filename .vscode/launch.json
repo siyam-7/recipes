@@ -9,7 +9,7 @@
             "request": "launch",
             "name": "Open index.html",
             "file": "/home/siyam/Documents/PROGRAMMING/demo-repo/recipes/index.html"
-            "runtimeExecutable": "~/usr/bin/brave-browser"
+            "runtimeExecutable": "/usr/bin/brave-browser"
         }
     ]
 }
